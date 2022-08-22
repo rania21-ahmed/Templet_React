@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Templet_React/static/css/main.b06fd873.css",
+    "main.js": "/Templet_React/static/js/main.9d472e98.js",
+    "static/js/787.ef258eac.chunk.js": "/Templet_React/static/js/787.ef258eac.chunk.js",
+    "index.html": "/Templet_React/index.html",
+    "main.b06fd873.css.map": "/Templet_React/static/css/main.b06fd873.css.map",
+    "main.9d472e98.js.map": "/Templet_React/static/js/main.9d472e98.js.map",
+    "787.ef258eac.chunk.js.map": "/Templet_React/static/js/787.ef258eac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b06fd873.css",
+    "static/js/main.9d472e98.js"
+  ]
+}
